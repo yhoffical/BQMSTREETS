@@ -1,5 +1,4 @@
 --[[
-    v1.0
    v2 
   v3
  v4
@@ -9,5 +8,5 @@ are you wanna steal my script ? !
 lol you can't do that
 X#%8*v&@:/#5%#~v1.9.3 
 ]]--
-loadstring(game:HttpGet("https://pastefy.app/wbiGZYEv/raw"))()
+loadstring(game:HttpGet("https://pastefy.app/ACNdNNkm/raw"))()
 
